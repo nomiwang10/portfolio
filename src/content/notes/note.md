@@ -2,7 +2,7 @@
 title: "Learning C"
 description: "I am learning how to program in C now to get prepared for my embedded system class and potential chances to work on some firmware for work."
 pubDate: "Mar 14 2026"
-heroImage: "/post_img.png"
+heroImage: "/note01.jpg"
 badge: "demo"
 tags: ["notes"]
 ---
