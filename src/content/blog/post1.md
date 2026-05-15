@@ -1,57 +1,20 @@
 ---
-title: "1. No Blogs at the moment"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Mar 14 2025"
-heroImage: "/post_img.png"
+title: "My First Five Months at Schneider Electrics"
+description: "Watch me try to talk about my job without getting too technical lol"
+pubDate: "Mar 14 2026"
+heroImage: "/post01.jpg"
 badge: ""
-tags: ["demo"]
+tags: ["Internship"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+My first five months at Schneider Electric have been an incredible learning experience.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+When I first started, I knew I would be working on hardware-related projects, but I did not fully realize how much exposure I would get across power electronics, sensing, automation, embedded systems, and even electromagnetic design. Looking back, my work so far can be divided into three main areas.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+First, I have been involved in the design, testing, and validation of a solenoid driver board for an ongoing project. Through this work, I gained a much deeper understanding of power electronics and power systems, especially because the solenoid is designed for a three-phase power supply application. I also learned how to run simulations in PSpice, identify key issues on the first development board, and propose alternative solutions. As the project progressed, I became more involved in the design of the solenoid itself, which gave me the opportunity to apply concepts from electromagnetic theory in a real engineering context. It has been especially exciting to see how ideas connected to Maxwell’s equations show up in practical design work. I have also been using 2D and 3D FEA to support the design process, and I am currently involved in the process of submitting a patent for some of our new design ideas.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Second, I have worked on testing current sensors for the same three-pole circuit breaker system. This part of my role gave me hands-on experience with LabVIEW, where I built programs to automate circuit board testing. I also applied my circuit theory background to develop mathematical models and design tests to characterize sensor behavior. It has been rewarding to connect topics like automation, communication protocols, TCP/IP, to real industrial applications. Along the way, I also wrote a significant amount of DSP code to process and analyze signal data.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+Most recently, I was introduced to a new project related to smart metering devices. This has involved investigating previous work done by past interns, reading through technical documentation, and learning more about how different MCUs are used in this project. This project has been a great refresher on digital logic design, while also giving me more exposure to firmware engineering and embedded systems and chances to connect with some engineers that I haven't worked with yet.
+
+Let's keep building!
