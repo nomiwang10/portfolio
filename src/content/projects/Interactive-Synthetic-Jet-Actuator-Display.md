@@ -60,5 +60,5 @@ Although the small scale of the actuator limited visual clarity, the system succ
 
 ## Project Documents
 
-- [View Full Project Overview PDF](../../projects/synthetic-jet-actuator-overview.pdf)
-- [View Research Open House Poster PDF](../../projects/synthetic-jet-actuator-poster.pdf)
+- [View Full Project Overview PDF](/synthetic-jet-actuator-overview.pdf)
+- [View Research Open House Poster PDF](/synthetic-jet-actuator-poster.pdf)

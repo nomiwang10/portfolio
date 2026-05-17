@@ -32,4 +32,4 @@ The project was developed as the final project for **ECE:3330 Intro to Software 
 - **Database-backed word management**
 
 ## Project Documents
-[View Detailed Project Presentation PDF](../../projects/InkRush.pdf)
+[View Detailed Project Presentation PDF](/InkRush.pdf)

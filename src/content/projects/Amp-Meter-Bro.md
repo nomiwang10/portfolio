@@ -105,14 +105,14 @@ The project required integrating the ESP32, INA219, OLED display, DC/DC converte
 
 ## Project Documents
 
-- [View Project Description PDF](../../projects/amp-meter-bro-project-description.pdf)
-- [View Modern Marvels Showcase Poster PDF](../../projects/amp-meter-bro-modern-marvels-poster.pdf)
+- [View Project Description PDF](/amp-meter-bro-project-description.pdf)
+- [View Modern Marvels Showcase Poster PDF](/amp-meter-bro-modern-marvels-poster.pdf)
 
 ## Live Demo
 
 This demo shows the current prototype measuring voltage, current, and power in real time. The device uses an ESP32 and INA219 current monitor to process measurements, displays live readings on the OLED screen, and updates the system status based on the selected load condition.
 
 <video controls width="100%">
-    <source src="../../videos/amp-meter-bro-demo.mp4" type="video/mp4" />
+    <source src="/amp-meter-bro-demo.mp4" type="video/mp4" />
     Your browser does not support the video tag.
 </video>
