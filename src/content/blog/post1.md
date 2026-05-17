@@ -1,7 +1,7 @@
 ---
 title: "My First Five Months at Schneider Electrics"
 description: "Watch me try to talk about my job without getting too technical lol"
-pubDate: "Mar 14 2026"
+pubDate: "May 14 2026"
 heroImage: "/post01.jpg"
 badge: ""
 tags: ["Internship"]
