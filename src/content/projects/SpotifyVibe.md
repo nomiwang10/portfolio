@@ -31,5 +31,5 @@ Music is universal, but language barriers can make it difficult for listeners to
 
 The original project proposal outlines the motivation, system architecture, and planned AI workflow for the Real-Time Spotify Lyric Translator + Song Vibe Board. It describes how the app combines Spotify playback data, lyric translation, emotion/theme analysis, and AI-generated visual backgrounds.
 
-[View Project Proposal PDF](/../../projects/spotify-lyric-vibe-board-proposal.pdf)
+[View Project Proposal PDF](../../projects/spotify-lyric-vibe-board-proposal.pdf)
 ---
